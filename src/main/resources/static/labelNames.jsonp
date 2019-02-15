@@ -1,0 +1,57 @@
+jsonstr = [ {
+    "key": "id",
+    "value": "Id"
+  },
+  {
+    "key": "frame",
+    "value": "Frame"
+  },
+  {
+    "key": "powertrain",
+    "value": "Powertrain"
+  },
+  {
+    "key": "wheels",
+    "value": "Wheels"
+  },
+  {
+    "key": "timestampGeneration",
+    "value": "Time of Report Generation"
+  },
+  {
+    "key": "timestampUpload",
+    "value": "Time of File Upload"
+  },
+  {
+    "key": "timeOfReportGeneration",
+    "value": "Time of Report Generation"
+  },
+  {
+    "key": "timeOfUpload",
+    "value": "Time of File Upload"
+  },
+  {
+    "key": "fileName",
+    "value": "File Name"
+  },
+  {
+    "key": "filename",
+    "value": "File Name"
+  },
+  {
+    "key": "file",
+    "value": "File Name"
+  },
+  {
+    "key": "uploadDate",
+    "value": "Upload Date"
+  },
+  {
+    "key":"vehicleName",
+    "value":"Vehicle Name"
+  },
+  {
+       "key":"vehicle",
+       "value":"Vehicle Name"
+  }
+];

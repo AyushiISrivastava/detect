@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Vehicle Detection System</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<div id="header">
+    <h2>Vehicle Detection System</h2>
+</div>
+<div id="container">
+    <div id="animated_div">
+        <img src = "bike.jpg" alt="bike.jpg"/>
+    </div>
+    <div>
+    <center>
+        <img src="graffiti.jpg" alt="graffiti.jpg" id="imgBackground"/>
+        <div id="subContainer">
+        <form>
+            <input type="file" id="file" accept=".xml"/>
+        </form>
+        <button class="button" id="fileUpload" onclick="uploadFile();">Upload File</button>
+        <button class="button" id="selectReports" onclick="fetchFile();">Select Reports</button>
+    </div>
+    </center>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="main.js"></script>
+<div id="footer">
+    <h4>Made by Ayushi</h4>
+</div>
+</body>
+</html>

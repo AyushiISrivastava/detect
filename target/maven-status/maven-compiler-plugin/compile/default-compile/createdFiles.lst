@@ -1,0 +1,14 @@
+com/vehicle/detection/util/StatusCode.class
+com/vehicle/detection/util/Messages.class
+com/vehicle/detection/repository/MongoConnector.class
+com/vehicle/detection/util/ApiResponse.class
+com/vehicle/detection/service/VehicleService.class
+com/vehicle/detection/model/Material.class
+com/vehicle/detection/model/Vehicle.class
+com/vehicle/detection/service/VehicleServiceImpl.class
+com/vehicle/detection/controller/VehicleController.class
+com/vehicle/detection/model/Position.class
+com/vehicle/detection/model/Wheel.class
+com/vehicle/detection/manager/VehicleManager.class
+com/vehicle/detection/SpringApplicationStarted.class
+com/vehicle/detection/repository/MongoUtility.class
